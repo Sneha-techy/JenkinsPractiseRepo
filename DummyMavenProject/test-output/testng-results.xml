@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test class is Executed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-18T12:15:27 IST" name="Default suite" finished-at="2025-04-18T12:15:48 IST" duration-ms="21563">
+    <groups>
+    </groups>
+    <test started-at="2025-04-18T12:15:27 IST" name="Default test" finished-at="2025-04-18T12:15:48 IST" duration-ms="21563">
+      <class name="dummy1.FirstProgram_Test">
+        <test-method signature="test()[pri:0, instance:dummy1.FirstProgram_Test@765d7657]" started-at="2025-04-18T12:15:27 IST" name="test" finished-at="2025-04-18T12:15:48 IST" duration-ms="21465" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test class is Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- dummy1.FirstProgram_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
